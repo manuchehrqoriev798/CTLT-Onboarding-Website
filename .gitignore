@@ -1,0 +1,11 @@
+test.js
+
+# Firebase config
+js/firebase-config.js
+
+# Other sensitive files
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
